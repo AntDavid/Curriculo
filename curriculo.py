@@ -42,11 +42,7 @@ experience = ("Desenvolvedor de Integração\n"
               "Estagiário de TI\n"
               "Escola Vereador Luiz Santos\n"
               "Ago 2019 - Nov 2019 (4 meses)\n"
-              "- Manutenção e suporte de informática.\n\n"
-              "Atendente de Call Center\n"
-              "Tel Centro de Contatos\n"
-              "Nov 2021 - Fev 2023\n"
-              "- Atendimento ativo e receptivo, agendamento de exames e consultas.")
+              "- Manutenção e suporte de informática.\n")
 pdf.chapter_body(experience)
 
 # Education
